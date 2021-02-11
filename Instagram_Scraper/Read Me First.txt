@@ -1,0 +1,46 @@
+Dear Liz,
+
+I Hope You are doing well. Please read all these instruction carefully to prevent errors.
+
+Thank You
+
+Best Regards,
+Kaleem Arshad
+
+IDE to Install:
+I recommend you to install Pycharm IDE with Python version >3.8
+
+Modules to Install:
+> Selenium (To Install it write: pip install selenium, in Pycharm's terminal)
+> Itertools (pip install itertools)
+> Pandas (pip install pandas)
+> Explicit (pip install explicit)
+> Bs4 (pip install bs4)
+
+Other thing to install:
+> Chrome Web Driver(its version will be same as your chrome browser)
+
+Now, First Open the Url_Scraper.py file of Instagram_Scraper and follow these steps:
+1) On line number 60 in the file, write the path to your chromedriver.exe e.g 'C:/WebDrivers/chromedriver.exe'
+
+2) On line number 17 and 24 write you email and password of Instagram respectively.
+
+3) On line number 59 write the urls of the profiles(you want the members data of) between []e.g ['yeahbabygoods', 'bboxforkids', 'babycenter', 'babylist', 'bybrittanynoonan', 'takingcarababies', 'mumsgrapevine', 'solidstarts', 'feedinglittles'], You can copy paste this to.
+
+4) Now run this file(click on green play button), A chrome window will be open and After this the Program will Automatically start Scraping members profiles, it can take a time to scrape all, it will not disturb you. You can do your own stuff while it is running in the background(minimized).
+
+5) After it is Done Successfully, You will see a href_list.csv file in the folder, open it and remove the first line containg (links) word in it.
+
+6) Save all the things and close them.
+
+7) Open Instagram.py file and on line 17 and 24 write your email and password of Instagram respectively.
+
+8) on line 133 write the path to the folder where you want to save the data between "".
+
+9) On line 160 and 153 write the paths to ChromeDriver.exe and href_list.csv respectively.
+
+10) Run the file, A chrome Window will be open and the program will start scraping data.
+
+11) After this go to the folder where your data will be saved and watch it or you can also do your other tasks.
+
+--------------ITS ALL DONE THANK YOU FOR READING IF YOU HAVE PROBLE OR QUESTION, I AM HERE FOR YOU :)----------------
