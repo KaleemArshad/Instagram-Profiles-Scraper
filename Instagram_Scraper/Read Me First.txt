@@ -1,14 +1,18 @@
-Dear Liz,
+Dear There,
 
 I Hope You are doing well. Please read all these instruction carefully to prevent errors.
 
 Thank You
 
 Best Regards,
+
 Kaleem Arshad
 
+=============================================================================
+=============================================================================
+
 IDE to Install:
-I recommend you to install Pycharm IDE with Python version >3.8
+I recommend you to install Pycharm IDE with Python version >=3.7
 
 Modules to Install:
 > Selenium (To Install it write: pip install selenium, in Pycharm's terminal)
@@ -43,4 +47,4 @@ Now, First Open the Url_Scraper.py file of Instagram_Scraper and follow these st
 
 11) After this go to the folder where your data will be saved and watch it or you can also do your other tasks.
 
---------------ITS ALL DONE THANK YOU FOR READING IF YOU HAVE PROBLE OR QUESTION, I AM HERE FOR YOU :)----------------
+--------------ITS ALL DONE THANK YOU FOR READING IF YOU HAVE PROBLEM OR QUESTION, I AM HERE FOR YOU :)----------------
